@@ -1,0 +1,20 @@
+{
+  "name": "team-profile-generator-ajay",
+  "version": "1.0.0",
+  "description": "![License Badge](https://img.shields.io/github/license/mmeii/10-team-profile-generator) ![Top Language](https://img.shields.io/github/languages/top/mmeii/10-team-profile-generator)",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
