@@ -28,12 +28,16 @@ THEN I exit the application, and the HTML is generated
 
 ## 💡 Application Walkthrough
 
-This command line application will ask users following questions to generate a HTML file.
+This command line appliction test-scripts will inclde:
+
+![Application test scripts](./Assets/application-testscripts.png)
+
+This application will ask users following questions to generate a HTML file.
 
 ![Application questions](./Assets/application-questions.png)
 
 
-Upon entering the answers, the application will generate a team.html file in the output folder..
+Upon entering the answers, the application will generate a team.html file in the output folder.
 
 ## Mock-up
 
@@ -47,4 +51,9 @@ https://drive.google.com/file/d/1mCTQaekWAb_eRfVWaK-z9fIbkCYM_8Mr/view?usp=shari
 
    <br/>
 
+## 🔗 Application Output HTML Page
+
+https://ajaykulkarni01.github.io/Team-Profile-Generator/output/team.html
+
+   <br/>
 ---
