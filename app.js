@@ -257,5 +257,6 @@ addNewMember();
 
 function generate() {
     fs.writeFileSync(outputPath, render(team), "utf-8");
+    console.log("teams.html successfully generated!!")
     process.exit(0);
 }
