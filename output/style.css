@@ -1,5 +1,5 @@
 h1 {
-    Font-Family: 'Merriweather', Serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 45px;
     letter-spacing: 5px;
     text-transform: uppercase;
@@ -7,41 +7,29 @@ h1 {
 }
 
 h2 {
-    font-weight: bold;
+    font-size: 30px;
 }
-
-span {
-    opacity: 0.6;
+h3 {
+    font-size: 25px;
+}
+.container{
+    margin: 10px auto;
 }
 
 body {
-    Font-Family: 'Muli', Sans-Serif;
+    font-family: 'Ubuntu', sans-serif;
     background-color: #DCEEF2;
     color: #DCEEF2;
 }
 
-.jumbotron {
-    background: #152C40;
-}
-
-.employee-card {
-    box-shadow: 1px 1px 3px 0px #465E73;
-}
-
-.card-header {
-    background: #152C40;
-}
-
-.card-body {
-    color: #465E73;
+.card-body{
+    font-weight: bold;
 }
 
 a {
-    color: #BF7636;
+    color: #0000ff;
 }
 
 a:hover {
-    color: #D9B991;
-    text-decoration: none;
-    text-transform: uppercase;
+    color: #0047a3;
 }
